@@ -1,0 +1,170 @@
+[
+  {
+    "group": "A",
+    "teams": [
+      {
+        "placement": "A1",
+        "name": "Qatar"
+      },
+      {
+        "placement": "A2",
+        "name": "Ecuador"
+      },
+      {
+        "placement": "A3",
+        "name": "Senegal"
+      },
+      {
+        "placement": "A4",
+        "name": "Netherlands"
+      }
+    ]
+  },
+  {
+    "group": "B",
+    "teams": [
+      {
+        "placement": "B1",
+        "name": "England"
+      },
+      {
+        "placement": "B2",
+        "name": "Iran"
+      },
+      {
+        "placement": "B3",
+        "name": "USA"
+      },
+      {
+        "placement": "B4",
+        "name": "Wales"
+      }
+    ]
+  },
+  {
+    "group": "C",
+    "teams": [
+      {
+        "placement": "C1",
+        "name": "Argentina"
+      },
+      {
+        "placement": "C2",
+        "name": "Saudi Arabia"
+      },
+      {
+        "placement": "C3",
+        "name": "Mexico"
+      },
+      {
+        "placement": "C4",
+        "name": "Poland"
+      }
+    ]
+  },
+  {
+    "group": "D",
+    "teams": [
+      {
+        "placement": "D1",
+        "name": "France"
+      },
+      {
+        "placement": "D2",
+        "name": "Denmark"
+      },
+      {
+        "placement": "D3",
+        "name": "Tunisia"
+      },
+      {
+        "placement": "D4",
+        "name": "Australia"
+      }
+    ]
+  },
+  {
+    "group": "E",
+    "teams": [
+      {
+        "placement": "E1",
+        "name": "Spain"
+      },
+      {
+        "placement": "E2",
+        "name": "Germany"
+      },
+      {
+        "placement": "E3",
+        "name": "Japan"
+      },
+      {
+        "placement": "E4",
+        "name": "Costa Rica"
+      }
+    ]
+  },
+  {
+    "group": "F",
+    "teams": [
+      {
+        "placement": "F1",
+        "name": "Belgium"
+      },
+      {
+        "placement": "F2",
+        "name": "Canada"
+      },
+      {
+        "placement": "F3",
+        "name": "Morocco"
+      },
+      {
+        "placement": "F4",
+        "name": "Croatia"
+      }
+    ]
+  },
+  {
+    "group": "G",
+    "teams": [
+      {
+        "placement": "G1",
+        "name": "Brazil"
+      },
+      {
+        "placement": "G2",
+        "name": "Serbia"
+      },
+      {
+        "placement": "G3",
+        "name": "Switzerland"
+      },
+      {
+        "placement": "G4",
+        "name": "Cameroon"
+      }
+    ]
+  },
+  {
+    "group": "H",
+    "teams": [
+      {
+        "placement": "H1",
+        "name": "Portugal"
+      },
+      {
+        "placement": "H2",
+        "name": "Ghana"
+      },
+      {
+        "placement": "H3",
+        "name": "Uruguay"
+      },
+      {
+        "placement": "H4",
+        "name": "South Korea"
+      }
+    ]
+  }
+]

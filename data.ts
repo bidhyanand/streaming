@@ -1,0 +1,1 @@
+export const imageUrl = "https://d23a5ace75699w.cloudfront.net"

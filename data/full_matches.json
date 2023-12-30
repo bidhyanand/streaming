@@ -1,0 +1,572 @@
+{
+  "matches": {
+    "groupStage": [
+      {
+        "date": "20 Nov",
+        "team1": "Qatar",
+        "match": "1",
+        "team2": "Ecuador",
+        "group": "A",
+        "time": "19:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "21 Nov",
+        "team1": "Senegal",
+        "match": "2",
+        "team2": "Netherlands",
+        "group": "A",
+        "time": "19:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "21 Nov",
+        "team1": "England",
+        "match": "3",
+        "team2": "Iran",
+        "group": "B",
+        "time": "16:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "21 Nov",
+        "team1": "USA",
+        "match": "4",
+        "team2": "Wales",
+        "group": "B",
+        "time": "22:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "22 Nov",
+        "team1": "France",
+        "match": "5",
+        "team2": "Australia",
+        "group": "D",
+        "time": "22:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "22 Nov",
+        "team1": "Denmark",
+        "match": "6",
+        "team2": "Tunisia",
+        "group": "D",
+        "time": "16:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "22 Nov",
+        "team1": "Mexico",
+        "match": "7",
+        "team2": "Poland",
+        "group": "C",
+        "time": "19:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "22 Nov",
+        "team1": "Argentina",
+        "match": "8",
+        "team2": "Saudi Arabia",
+        "group": "C",
+        "time": "13:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "23 Nov",
+        "team1": "Belgium",
+        "match": "9",
+        "team2": "Canada",
+        "group": "F",
+        "time": "22:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "23 Nov",
+        "team1": "Spain",
+        "match": "10",
+        "team2": "Costa Rica",
+        "group": "E",
+        "time": "19:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "23 Nov",
+        "team1": "Germany",
+        "match": "11",
+        "team2": "Japan",
+        "group": "E",
+        "time": "16:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "23 Nov",
+        "team1": "Morocco",
+        "match": "12",
+        "team2": "Croatia",
+        "group": "F",
+        "time": "13:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "24 Nov",
+        "team1": "Switzerland",
+        "match": "13",
+        "team2": "Cameroon",
+        "group": "G",
+        "time": "13:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "24 Nov",
+        "team1": "Uruguay",
+        "match": "14",
+        "team2": "South Korea",
+        "group": "H",
+        "time": "16:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "24 Nov",
+        "team1": "Portugal",
+        "match": "15",
+        "team2": "Ghana",
+        "group": "H",
+        "time": "19:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "24 Nov",
+        "team1": "Brazil",
+        "match": "16",
+        "team2": "Serbia",
+        "group": "G",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "25 Nov",
+        "team1": "Iran",
+        "match": "17",
+        "team2": "Wales",
+        "group": "B",
+        "time": "13:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "25 Nov",
+        "team1": "Qatar",
+        "match": "18",
+        "team2": "Senegal",
+        "group": "A",
+        "time": "16:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "25 Nov",
+        "team1": "Netherlands",
+        "match": "19",
+        "team2": "Ecuador",
+        "group": "A",
+        "time": "19:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "25 Nov",
+        "team1": "England",
+        "match": "20",
+        "team2": "USA",
+        "group": "B",
+        "time": "22:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "26 Nov",
+        "team1": "Tunisia",
+        "match": "21",
+        "team2": "Australia",
+        "group": "D",
+        "time": "13:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "26 Nov",
+        "team1": "Poland",
+        "match": "22",
+        "team2": "Saudi Arabia",
+        "group": "C",
+        "time": "16:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "26 Nov",
+        "team1": "France",
+        "match": "23",
+        "team2": "Denmark",
+        "group": "D",
+        "time": "19:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "26 Nov",
+        "team1": "Argentina",
+        "match": "24",
+        "team2": "Mexico",
+        "group": "C",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "27 Nov",
+        "team1": "Japan",
+        "match": "25",
+        "team2": "Costa Rica",
+        "group": "E",
+        "time": "13:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "27 Nov",
+        "team1": "Belgium",
+        "match": "26",
+        "team2": "Morocco",
+        "group": "F",
+        "time": "16:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "27 Nov",
+        "team1": "Croatia",
+        "match": "27",
+        "team2": "Canada",
+        "group": "F",
+        "time": "19:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "27 Nov",
+        "team1": "Spain",
+        "match": "28",
+        "team2": "Germany",
+        "group": "E",
+        "time": "22:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "28 Nov",
+        "team1": "Serbia",
+        "match": "29",
+        "team2": "Cameroon",
+        "group": "G",
+        "time": "13:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "28 Nov",
+        "team1": "South Korea",
+        "match": "30",
+        "team2": "Ghana",
+        "group": "H",
+        "time": "16:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "28 Nov",
+        "team1": "Brazil",
+        "match": "31",
+        "team2": "Switzerland",
+        "group": "G",
+        "time": "19:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "28 Nov",
+        "team1": "Portugal",
+        "match": "32",
+        "team2": "Uruguay",
+        "group": "H",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "29 Nov",
+        "team1": "England",
+        "match": "33",
+        "team2": "Wales",
+        "group": "B",
+        "time": "22:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "29 Nov",
+        "team1": "Iran",
+        "match": "34",
+        "team2": "USA",
+        "group": "B",
+        "time": "22:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "29 Nov",
+        "team1": "Ecuador",
+        "match": "35",
+        "team2": "Senegal",
+        "group": "A",
+        "time": "18:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "29 Nov",
+        "team1": "Netherlands",
+        "match": "36",
+        "team2": "Qatar",
+        "group": "A",
+        "time": "18:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "30 Nov",
+        "team1": "Denmark",
+        "match": "37",
+        "team2": "Australia",
+        "group": "D",
+        "time": "18:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "30 Nov",
+        "team1": "Tunisia",
+        "match": "38",
+        "team2": "France",
+        "group": "D",
+        "time": "18:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "30 Nov",
+        "team1": "Poland",
+        "match": "39",
+        "team2": "Argentina",
+        "group": "C",
+        "time": "22:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "30 Nov",
+        "team1": "Saudi Arabia",
+        "match": "40",
+        "team2": "Mexico",
+        "group": "C",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "1 Dec",
+        "team1": "Croatia",
+        "match": "41",
+        "team2": "Belgium",
+        "group": "F",
+        "time": "18:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "1 Dec",
+        "team1": "Canada",
+        "match": "42",
+        "team2": "Morocco",
+        "group": "F",
+        "time": "18:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "1 Dec",
+        "team1": "Japan",
+        "match": "43",
+        "team2": "Spain",
+        "group": "E",
+        "time": "22:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "1 Dec",
+        "team1": "Costa Rica",
+        "match": "44",
+        "team2": "Germany",
+        "group": "E",
+        "time": "22:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "2 Dec",
+        "team1": "Ghana",
+        "match": "45",
+        "team2": "Uruguay",
+        "group": "H",
+        "time": "18:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "2 Dec",
+        "team1": "South Korea",
+        "match": "46",
+        "team2": "Portugal",
+        "group": "H",
+        "time": "18:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "2 Dec",
+        "team1": "Serbia",
+        "match": "47",
+        "team2": "Switzerland",
+        "group": "G",
+        "time": "22:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "2 Dec",
+        "team1": "Brazil",
+        "match": "48",
+        "team2": "Cameroon",
+        "group": "G",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      }
+    ],
+    "roundOf16": [
+      {
+        "date": "3 Dec",
+        "team1": "Netherlands",
+        "match": "49",
+        "team2": "USA",
+        "time": "18:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "3 Dec",
+        "team1": "Argentina",
+        "match": "50",
+        "team2": "Australia",
+        "time": "22:00",
+        "location": "Ahmad Bin Ali Stadium"
+      },
+      {
+        "date": "4 Dec",
+        "team1": "France",
+        "match": "51",
+        "team2": "Poland",
+        "time": "22:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "4 Dec",
+        "team1": "England",
+        "match": "52",
+        "team2": "Senegal",
+        "time": "18:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "5 Dec",
+        "team1": "Japan",
+        "match": "53",
+        "team2": "Croatia",
+        "time": "18:00",
+        "location": "Al Janoub Stadium"
+      },
+      {
+        "date": "5 Dec",
+        "team1": "Brazil",
+        "match": "54",
+        "team2": "South Korea",
+        "time": "22:00",
+        "location": "Stadium 974"
+      },
+      {
+        "date": "6 Dec",
+        "team1": "Morocco",
+        "match": "55",
+        "team2": "Spain",
+        "time": "18:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "6 Dec",
+        "team1": "Portugal",
+        "match": "56",
+        "team2": "Switzerland",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      }
+    ],
+    "quarterfinal": [
+      {
+        "date": "9 Dec",
+        "team1": "Croatia",
+        "match": "57",
+        "team2": "Brazil",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "9 Dec",
+        "team1": "Netherlands",
+        "match": "58",
+        "team2": "Argentina",
+        "time": "18:00",
+        "location": "Education City Stadium"
+      },
+      {
+        "date": "10 Dec",
+        "team1": "Morocco",
+        "match": "59",
+        "team2": "Portugal",
+        "time": "22:00",
+        "location": "Al Bayt Stadium"
+      },
+      {
+        "date": "10 Dec",
+        "team1": "England",
+        "match": "60",
+        "team2": "France",
+        "time": "18:00",
+        "location": "Al Thumama Stadium"
+      },
+      {
+        "date": "13 Dec",
+        "team1": "Argentina",
+        "match": "61",
+        "team2": "Croatia",
+        "time": "22:00",
+        "location": "Lusail Stadium"
+      },
+      {
+        "date": "14 Dec",
+        "team1": "France",
+        "match": "62",
+        "team2": "Morocco",
+        "time": "22:00",
+        "location": "Al Bayt Stadium"
+      }
+    ],
+    "final": [
+      {
+        "date": "17 Dec",
+        "team1": "Croatia",
+        "match": "63",
+        "team2": "Morocco",
+        "time": "18:00",
+        "location": "Khalifa International Stadium"
+      },
+      {
+        "date": "18 Dec",
+        "team1": "Argentina",
+        "match": "64",
+        "team2": "France",
+        "time": "18:00",
+        "location": "Lusail Stadium"
+      }
+    ]
+  }
+}

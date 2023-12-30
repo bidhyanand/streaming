@@ -1,0 +1,23 @@
+.yvideo{
+  display: flex;
+  z-index: 998;
+}
+
+.control_background{
+  display: flex;
+  justify-content: space-between;
+  z-index: 99999;
+  margin-top: -40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  /* background-color: red; */
+  /* padding : 40px; */
+}
+
+
+video::-webkit-media-controls {
+  display:none !important;
+}
+video::-webkit-media-controls-enclosure {
+  display:none !important;
+}

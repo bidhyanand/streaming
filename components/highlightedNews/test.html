@@ -1,0 +1,90 @@
+<head>
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
+  
+    <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.5.14/hls.min.js"
+      integrity="sha512-js37JxjD6gtmJ3N2Qzl9vQm4wcmTilFffk0nTSKzgr3p6aitg73LR205203wTzCCC/NZYO2TAxSa0Lr2VMLQvQ=="
+      crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  
+  </head>
+  
+  <body>
+    <!-- <video id=example-video width=960 height=540 class="video-js vjs-default-skin" controls>
+      <source src="http://localhost:8000/live/hello_world/index.m3u8" type="application/x-mpegURL">
+    </video>
+    <script src="video.js"></script>
+    <script src="videojs.hls.min.js"></script>
+    <script>
+      var player = videojs('example-video');
+      player.play();
+    </script> -->
+  
+  
+    <script src="https://cdn.bootcss.com/flv.js/1.5.0/flv.min.js"></script>
+    <video id="videoElement"></video>
+    <script>
+        if (flvjs.isSupported()) {
+            var videoElement = document.getElementById('videoElement');
+            var flvPlayer = flvjs.createPlayer({
+                type: 'flv',
+                isLive : true,
+                hasAudio : true,
+                hasVideo : true,
+                url: 'http://192.168.18.6:8000/livehello_world/dfasdf.flv'
+            })
+            flvPlayer.attachMediaElement(videoElement);
+            flvPlayer.load();
+            // setTimeout(()=>{
+            // flvPlayer.play();
+  
+            // },3000)
+        }
+    </script> 
+    <button onclick="flvPlayer.play()">Play</button>
+  
+  
+    <!-- <video id="player"></video>
+  
+    <div class="card" style="width: 20rem; margin:auto; margin-top:20px">
+      <div class="card-body">
+        <h4 class="card-title">HLS Sample</h4>
+        <a href="#" id="button" class="btn btn-primary">Initializing</a>
+      </div>
+    </div>
+  
+    <script>
+      let player = document.querySelector('#player');
+      let button = document.querySelector('#button');
+  
+      const play = function () {
+        if (button.innerHTML === 'Play') {
+          player.play();
+          button.innerHTML = "Pause";
+        } else {
+  
+          player.pause();
+          button.innerHTML = "Play";
+        }
+      };
+      if (Hls.isSupported()) {
+        button.innerHTML = 'Loading';
+        var hls = new Hls();
+        hls.loadSource('http://192.168.18.6:8000/hello_world/dfasdf/index.m3u8');
+        hls.attachMedia(player);
+        hls.on(Hls.Events.MANIFEST_PARSED, function () {
+          button.innerHTML = 'Play';
+          button.addEventListener('click', play);
+        });
+        hls.on(Hls.Events.ERROR, function (err) {
+        })
+      } else {
+        button.innerHTML = 'Not Supported';
+      }
+    </script> -->
+  
+  
+  
+  
+  </body>
